@@ -1,0 +1,6 @@
+{
+  "name": "TGR Propiedades",
+  "description": "Plataforma inmobiliaria moderna con buscador avanzado de propiedades, filtros personalizados y propiedades exclusivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
